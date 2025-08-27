@@ -1,3 +1,7 @@
 # TA-Place
-just a clone version of r/Place but light and stable
-> website: https://taplace.pages.dev
+
+A simple clone version of r/place but light and stable
+## Demo
+
+🚀 [Live website (click here)](https://taplace.pages.dev/)
+
